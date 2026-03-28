@@ -2,3 +2,6 @@
     remote = dagshub
 ['remote "dagshub"']
     url = https://dagshub.com/mmmm144/sentiment-dvc-data.dvc
+    auth = basic
+    user = mmmm144
+    password = 87e45432567895ebfb7cc8ceafebd052261bb0ac
